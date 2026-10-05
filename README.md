@@ -14,10 +14,10 @@ I am an M.S. in Business Analytics student at Kent State University with an inte
 
 ## Featured Work
 
-### Fundamental Machine Learning
+### [Fundamental Machine Learning](https://github.com/HoomanFareghi/64060_hfareghi)
 Projects involving regression, classification, model evaluation, and predictive analytics using R.
 
-### Advanced Machine Learning
+### [Advanced Machine Learning](https://github.com/HoomanFareghi/hfareghi_64061)
 Projects involving neural networks, regularization, model generalization, and advanced predictive modeling.
 
 ## Education
